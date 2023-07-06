@@ -1,1 +1,2 @@
-# maven_repos
+# Maven Repository
+I created this for learning purpose
